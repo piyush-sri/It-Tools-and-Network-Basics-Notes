@@ -25,7 +25,7 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 
 Please adhere to this project's `code of conduct`.
-
+Use this repository to enhance your knowledge and dont forgot to upvote.
 
 ## FAQ
 
