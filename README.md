@@ -35,7 +35,7 @@ Use this repository to enhance your knowledge and dont forgot to upvote.
 
 #### How to contribute to this Project?
 
---Read the contributing.md file  
+-- Read the contributing.md file  
 
 ## Feedback
 
