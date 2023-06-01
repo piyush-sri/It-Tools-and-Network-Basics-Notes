@@ -39,7 +39,7 @@ Use this repository to enhance your knowledge and dont forgot to upvote.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at piyushhh.srivastava@gmail.com\
+If you have any feedback, please reach out to us at piyushhh.srivastava@gmail.com
 
 ## 🚀 About Me
 I'm an A Level Certified Programmer , Working as a Faculty In IPT Balrampur, where I guide students and train them in the field of Web development, Python Programming and IT tools Full Practical....
